@@ -1,0 +1,12 @@
+enum class Cities {
+    MARINGA,
+    LONDRINA,
+    CAMPO_MOURAO,
+    SAO_PAULO,
+    RIO,
+    PORTO_ALEGRE,
+    MARIALVA,
+    MARILANDIA,
+    TERRA_RICA,
+    CAMPINAS
+}

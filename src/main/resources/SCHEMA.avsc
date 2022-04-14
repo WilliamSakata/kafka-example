@@ -1,0 +1,14 @@
+{
+  "name": "Climate",
+  "type": "record",
+  "fields": [
+    {
+      "name": "temperature",
+      "type": "long"
+    },
+    {
+      "name": "humidity",
+      "type": "long"
+    }
+  ]
+}
